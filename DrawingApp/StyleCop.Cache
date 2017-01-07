@@ -1,0 +1,150 @@
+<stylecopresultscache>
+  <version>12</version>
+  <project key="-1596609064">
+    <configuration>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP;CODE_ANALYSIS</configuration>
+  </project>
+  <sourcecode name="App.xaml.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/05 21:21:16.373</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2017/01/06 19:56:32.427</sourceFile>
+      <parser>2016/10/05 21:21:16.373</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/10/05 21:21:16.373</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LongMethod" ruleCheckId="LM0001">
+        <context>Long method(過長函式)</context>
+        <line>40</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Method2" ruleCheckId="MT0002">
+        <context>ICS(函式-2)</context>
+        <line>87</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Method2" ruleCheckId="MT0002">
+        <context>ICS(函式-2)</context>
+        <line>99</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="MainPage.xaml.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/05 21:21:16.373</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2017/01/06 22:20:39.142</sourceFile>
+      <parser>2016/10/05 21:21:16.373</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/10/05 21:21:16.373</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="IndentAndNewLine4" ruleCheckId="IN0004">
+        <context>ICS(縮排與換行-4)</context>
+        <line>92</line>
+        <index>3300</index>
+        <endIndex>3340</endIndex>
+        <startLine>92</startLine>
+        <startColumn>1</startColumn>
+        <endLine>92</endLine>
+        <endColumn>41</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="IndentAndNewLine4" ruleCheckId="IN0004">
+        <context>ICS(縮排與換行-4)</context>
+        <line>93</line>
+        <index>3391</index>
+        <endIndex>3431</endIndex>
+        <startLine>93</startLine>
+        <startColumn>1</startColumn>
+        <endLine>93</endLine>
+        <endColumn>41</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="IndentAndNewLine4" ruleCheckId="IN0004">
+        <context>ICS(縮排與換行-4)</context>
+        <line>94</line>
+        <index>3460</index>
+        <endIndex>3500</endIndex>
+        <startLine>94</startLine>
+        <startColumn>1</startColumn>
+        <endLine>94</endLine>
+        <endColumn>41</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LongMethod" ruleCheckId="LM0001">
+        <context>Long method(過長函式)</context>
+        <line>75</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="PresentationModel.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/05 21:21:16.373</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2017/01/06 20:03:12.169</sourceFile>
+      <parser>2016/10/05 21:21:16.373</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/10/05 21:21:16.373</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="WindowsStoreGraphicsAdaptor.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/05 21:21:16.373</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2017/01/06 22:22:08.743</sourceFile>
+      <parser>2016/10/05 21:21:16.373</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/10/05 21:21:16.373</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>Unsuitable naming(名不符實)-polygon(polygon)</context>
+        <line>19</line>
+        <index>484</index>
+        <endIndex>506</endIndex>
+        <startLine>19</startLine>
+        <startColumn>21</startColumn>
+        <endLine>19</endLine>
+        <endColumn>43</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LiteralConstants" ruleCheckId="LC0001">
+        <context>Literal constants(字面常數)-2</context>
+        <line>36</line>
+        <index>1327</index>
+        <endIndex>1327</endIndex>
+        <startLine>36</startLine>
+        <startColumn>73</startColumn>
+        <endLine>36</endLine>
+        <endColumn>73</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>Unsuitable naming(名不符實)-polygon(polygon)</context>
+        <line>33</line>
+        <index>1148</index>
+        <endIndex>1170</endIndex>
+        <startLine>33</startLine>
+        <startColumn>21</startColumn>
+        <endLine>33</endLine>
+        <endColumn>43</endColumn>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/05 21:21:16.373</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2017/01/06 19:56:32.510</sourceFile>
+      <parser>2016/10/05 21:21:16.373</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/10/05 21:21:16.373</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+</stylecopresultscache>

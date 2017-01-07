@@ -1,0 +1,9 @@
+C:\Users\Leon\Desktop\DrawingForm\DrawingForm\bin\Debug\DrawingForm.exe.config
+C:\Users\Leon\Desktop\EzPaint\DrawingForm\bin\Debug\DrawingForm.exe.config
+C:\Users\Leon\Desktop\EzPaint\DrawingForm\obj\Debug\DrawingForm.csprojResolveAssemblyReference.cache
+C:\Users\Leon\Desktop\EzPaint\DrawingForm\obj\Debug\DrawingForm.Properties.Resources.resources
+C:\Users\Leon\Desktop\EzPaint\DrawingForm\obj\Debug\DrawingForm.csproj.GenerateResource.Cache
+C:\Users\Leon\Desktop\EzPaint\DrawingForm\bin\Debug\DrawingForm.exe
+C:\Users\Leon\Desktop\EzPaint\DrawingForm\bin\Debug\DrawingForm.pdb
+C:\Users\Leon\Desktop\EzPaint\DrawingForm\obj\Debug\DrawingForm.exe
+C:\Users\Leon\Desktop\EzPaint\DrawingForm\obj\Debug\DrawingForm.pdb
